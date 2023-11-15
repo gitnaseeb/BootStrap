@@ -1,0 +1,16 @@
+@media(min-width:768px){
+.news-input{
+    width:50%
+}
+}
+body::before{
+    display: block;
+    content: '';
+     height: 60px;  /* it acts as a ghost element of 60px */
+}
+.reactbox{
+background-color: rgb(155, 193, 227);
+}
+.jsbox{
+    background-color: rgb(147, 108, 147);
+}
